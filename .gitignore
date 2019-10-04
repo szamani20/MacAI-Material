@@ -1,0 +1,5 @@
+dataset/
+.idea/
+*.iml
+*.csv
+.ipynb_checkpoints/
