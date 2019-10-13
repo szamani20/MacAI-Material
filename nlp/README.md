@@ -72,6 +72,8 @@ I used multiple references to develop the NLP tutorial content. Some of them are
 
 [https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f](https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f)
 
+[https://blog.keras.io/](https://blog.keras.io/)
+
 [https://stackabuse.com/](https://stackabuse.com/)
 
 [https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-latent-dirichlet-allocation-437c81220158](https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-latent-dirichlet-allocation-437c81220158)
