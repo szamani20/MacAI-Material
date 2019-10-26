@@ -25,6 +25,21 @@ And the notebook is here:
 [https://github.com/szamani20/MacAI-Material/blob/master/nlp/unsupervised_topic_modeling_lda.ipynb](https://github.com/szamani20/MacAI-Material/blob/master/nlp/unsupervised_topic_modeling_lda.ipynb)
 
 ---
+##### Text Summarization
+
+Text Summarization is somehow related to Topic Modeling that we covered in the last
+section. In the former we try to find or generate some sentences that can summarize
+the whole document and in the latter we try to find which words group together to
+form a topic and which topics group together to form a text.
+
+We summarize the McMaster University Wikipedia page. Feel free to try it on some
+other text.
+
+The notebook is here:
+
+[https://github.com/szamani20/MacAI-Material/blob/master/nlp/extractive_text_summarization.ipynb](https://github.com/szamani20/MacAI-Material/blob/master/nlp/extractive_text_summarization.ipynb)
+
+---
 ##### Sentiment Analysis
 
 Then we cover `Sentiment Analysis` using the existing classification algorithms. Given tweets
