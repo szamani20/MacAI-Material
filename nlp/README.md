@@ -3,8 +3,6 @@
 Materials to be presented by me in the incoming tutorial sessions
 by **McMaster AI Society**.
 
-https://docs.google.com/presentation/d/11OcJr7VsOQpm482QAJDgOKNhilkZnNNmeZazkzHE94Q/edit?usp=sharing
-
 **Important note: We cover the Math and Statistics behind every
 part of the code that we write as well as explaining the code itself.
 It's not a code-only tutorial.**
@@ -47,6 +45,9 @@ this section. Download link:
 And the notebook is here:
 
 [https://github.com/szamani20/MacAI-Material/blob/master/nlp/unsupervised_topic_modeling_lda.ipynb](https://github.com/szamani20/MacAI-Material/blob/master/nlp/unsupervised_topic_modeling_lda.ipynb)
+
+LDA explanation presentation:
+[https://docs.google.com/presentation/d/11OcJr7VsOQpm482QAJDgOKNhilkZnNNmeZazkzHE94Q/edit?usp=sharing](https://docs.google.com/presentation/d/11OcJr7VsOQpm482QAJDgOKNhilkZnNNmeZazkzHE94Q/edit?usp=sharing)
 
 ---
 ##### Text Summarization
