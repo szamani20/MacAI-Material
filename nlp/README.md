@@ -102,6 +102,9 @@ Find the notebook here:
 
 [https://github.com/szamani20/MacAI-Material/blob/master/nlp/sentiment_sklearn.ipynb](https://github.com/szamani20/MacAI-Material/blob/master/nlp/sentiment_sklearn.ipynb)
 
+Classifiers presentation:
+[https://docs.google.com/presentation/d/1lQ6P2XkM1a4_0upqisf32GnN4JKBnxGIBxmWFDgyALU/edit?usp=sharing](https://docs.google.com/presentation/d/1lQ6P2XkM1a4_0upqisf32GnN4JKBnxGIBxmWFDgyALU/edit?usp=sharing)
+
 ---
 ##### Deep Learning based Sentiment Analysis with LSTM and CNN
 As the second section of the third tutorial we continue focusing
@@ -134,6 +137,19 @@ You may also need to download the `GloVe` file that we used in this tutorial her
 The notebook is here:
 
 [https://github.com/szamani20/MacAI-Material/blob/master/nlp/deep_learning_sentiment_dense_cnn_lstm.ipynb](https://github.com/szamani20/MacAI-Material/blob/master/nlp/deep_learning_sentiment_dense_cnn_lstm.ipynb)
+
+Word Embedding presentation:
+[https://docs.google.com/presentation/d/1YSMTu3r7Y40rUHH8iWD5OJp7nKD7G6P8kaJce2pDfQ0/edit?usp=sharing](https://docs.google.com/presentation/d/1YSMTu3r7Y40rUHH8iWD5OJp7nKD7G6P8kaJce2pDfQ0/edit?usp=sharing)
+
+Neural Network presentation:
+[https://docs.google.com/presentation/d/1yyZKq-jUZ6Yyee_24WL1S-kmi8T9GuNobc1kme7M-8I/edit?usp=sharing](https://docs.google.com/presentation/d/1yyZKq-jUZ6Yyee_24WL1S-kmi8T9GuNobc1kme7M-8I/edit?usp=sharing)
+
+Recurrent Neural Network presentation:
+[https://docs.google.com/presentation/d/119RW7WHo-HzKYszbgKlv1wWeWqOuofG9z-S1po4FD9s/edit?usp=sharing](https://docs.google.com/presentation/d/119RW7WHo-HzKYszbgKlv1wWeWqOuofG9z-S1po4FD9s/edit?usp=sharing)
+
+Convolutional Neural Network presentation:
+[https://docs.google.com/presentation/d/1u0ZrXawnpZiwtRJJog2GE6X0JKZbmh5njsrnrUahNz0/edit?usp=sharing](https://docs.google.com/presentation/d/1u0ZrXawnpZiwtRJJog2GE6X0JKZbmh5njsrnrUahNz0/edit?usp=sharing)
+
 
 ---
 
